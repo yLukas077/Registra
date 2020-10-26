@@ -38,7 +38,7 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para ace
 
 ## 💪 Nossa equipe
 
-- [Raquel Gruppi(Business)](raquel.gruppi@gmail.com)
+- [Raquel Gruppi(Business/dev)](raquel.gruppi@gmail.com)
 
 - [Lucas Vinícius(Marketing)](lucasbs1234@gmail.com)
 
